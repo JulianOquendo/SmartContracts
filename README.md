@@ -30,7 +30,7 @@
 
 ### While developing and testing the contract, I used the Ganache development chain and pointed MetaMask to localhost:8545 to connect.
 
-![Genesis]()
+![Remix](LevelOneRemix.png)
 
 In Remix, I deployed the contract to my local Ganache chain by connecting to Injected Web3 and ensuring MetaMask was pointed to localhost:8545.
 
