@@ -2,33 +2,33 @@
 
 ### In this homework assignment, I built a few smart contracts to do the following for the new company I was just hired at:
 
-### - Automate some company finances to make everyone's lives easier
-### - Increase transparency
-### - Make accounting and auditing practically automatic! 
+- Automate some company finances to make everyone's lives easier
+- Increase transparency
+- Make accounting and auditing practically automatic! 
 
 ### Using Solidity, I built these smart contracts specifically for the following tasks:
 
-### - Pay the Associate-level employees quickly and easily
+- Pay the Associate-level employees quickly and easily
 
-### - Distribute profits to different tiers of employees
+- Distribute profits to different tiers of employees
 
-### - Distribute company shares for employees in a "deferred equity incentive plan" automatically
+- Distribute company shares for employees in a "deferred equity incentive plan" automatically
 
 ## Instructions
 
 ### This assignment had 3 levels of difficulty, with each contract increasing in complexity and capability. Starting with Level 1:
 
-### Level One is an Associate Profit Splitter contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
+Level One is an Associate Profit Splitter contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-### Level Two is a Tiered Profit Splitter that will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
+Level Two is a Tiered Profit Splitter that will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
 
-### Level Three is a Deferred Equity Plan that models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
+Level Three is a Deferred Equity Plan that models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
 ### Level One:
 
-### I went ahead and used Remix IDE to create a new contract called AssociateProfitSplitter.sol using the starter code provided.
+I went ahead and used Remix IDE to create a new contract called AssociateProfitSplitter.sol using the starter code provided.
 
-### While developing and testing the contract, I used the Ganache development chain and pointed MetaMask to localhost:8545 to connect.
+While developing and testing the contract, I used the Ganache development chain and pointed MetaMask to localhost:8545 to connect.
 
 ![Remix](LevelOneRemix.png)
 
