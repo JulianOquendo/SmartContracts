@@ -24,13 +24,13 @@
 
 ### Level Three is a Deferred Equity Plan that models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
-### Starting:
+### Level One:
 
 ### I went ahead and used Remix IDE to create a new contract called AssociateProfitSplitter.sol using the starter code provided.
 
 ### While developing and testing the contract, I used the Ganache development chain and pointed MetaMask to localhost:8545 to connect.
 
-# Level One
+
 
 In Remix, I deployed the contract to my local Ganache chain by connecting to Injected Web3 and ensuring MetaMask was pointed to localhost:8545.
 
@@ -79,22 +79,3 @@ Deploy the contracts to a live Testnet - Ropsten network
 I switched my MetaMask to the Ropsten network. I had 5 test Ether on this network!
 
 After switching MetaMask to Ropsten network, deploy the contracts as before and copy/keep a note of their deployed addresses. The transactions will also be in your MetaMask history, and on the blockchain permanently to explore later.
-
-ropsten
-
-Sending 2 ETH to the accounts:
-
-ropsten
-
-Resources
-Building the next financial revolution isn't easy, but we need your help, don't be intimidated by the semicolons!
-
-There are lots of great resources to learn Solidity. Remember, you are helping push the very edge of this space forward, so don't feel discouraged if you get stuck! In fact, you should be proud that you are taking on such a challenge!
-
-For some succinct and straightforward code snips, check out Solidity By Example
-
-For a more extensive list of awesome Solidity resources, checkout Awesome Solidity
-
-Another tutorial is available at EthereumDev.io
-
-If you enjoy building games, here's an excellent tutorial called CryptoZombies
